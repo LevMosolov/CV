@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+  color: #113f67;
+  background-color: #f3f9fb;
+  font-family: 'Merriweather', serif;
+  margin: 0px;
+}
+
+
+
+/**********************   whoIam   ****************************/
+.whoIam{
+  margin: 50px auto 50px auto;
+}
+.whoIam h1{
+  font-size: 5.625rem;
+  font-family: 'Dancing Script', cursive;
+}
+
+
+
+/**********************   BACKGROUND   ****************************/
+.background{
+  width: 50%;
+  margin-top: 50px;
+  margin-left: 40%;
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+#tabledefinition{
+  padding-left: 20px;
+}
+/**********************   SKILLS   ****************************/
+.skills{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+.skills p{
+  background: -webkit-gradient(linear,left top,right top,from(#87c0cd),to(#ffeaaa));
+}
+
+/**********************   FOOTER   ****************************/
+.footer{
+  color: #113f67;
+  background-color: #87c0cd;
+  margin-bottom: 0px;
+
+  padding: 10px 0 10px;
+
+}
+
+.footer a{
+  color: #113f67;
+
+  text-decoration: none;
+}
+.footerref a{
+  margin: 0 10px;
+}
+.footerref a:hover{
+  color: #f3f9fb;
+}
+
+.butn {
+  background: #f0f0af;
+  background-image: -webkit-linear-gradient(top, #f0f0af, #9dcbe8);
+  background-image: -moz-linear-gradient(top, #f0f0af, #9dcbe8);
+  background-image: -ms-linear-gradient(top, #f0f0af, #9dcbe8);
+  background-image: -o-linear-gradient(top, #f0f0af, #9dcbe8);
+  background-image: linear-gradient(to bottom, #f0f0af, #9dcbe8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  margin: 0px 5px 0px 5px;
+  text-decoration: none;
+}
+
+
+.butn:hover {
+  background: #dbe687;
+  background-image: -webkit-linear-gradient(top, #dbe687, #dec89b);
+  background-image: -moz-linear-gradient(top, #dbe687, #dec89b);
+  background-image: -ms-linear-gradient(top, #dbe687, #dec89b);
+  background-image: -o-linear-gradient(top, #dbe687, #dec89b);
+  background-image: linear-gradient(to bottom, #dbe687, #dec89b);
+  text-decoration: none;
+}
+
+.copyright{
+  padding-top: 5px;
+  font-size: 0.75em;
+}
